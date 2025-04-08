@@ -4,8 +4,8 @@ I am an experienced **Data Scientist** and **Software Developer** with over **6 
 
 🔭 I’m currently working as a **Machine Learning Engineer at Quantum Ventura**, where I’m developing deep learning models for the **U.S. Department of Energy**
 
-❓ Ask me anything about the **data science stack** or **neurotechnology** 👾  
-📅 **Book a time to chat with me:** [https://calendly.com/vitorialara-soria/15-minute-talk](https://calendly.com/vitorialara-soria/15-minute-talk)
+❓ Ask me anything about the **data science stack** or **neurotechnology** 🧠  
+📅 **Book a time to chat with me:** [here](https://calendly.com/vitorialara-soria/15-minute-talk)
 
 ---
 
@@ -31,9 +31,7 @@ I am an experienced **Data Scientist** and **Software Developer** with over **6 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vitoria-lara-soria-241a271b2/)
-- ✉️ vitorialara.soria[at]email.com
+- ✉️ vitorialara.soria@gmail.com
 
----
 
-_This README doubles as my GitHub About Me page. Thanks for stopping by!_
 
